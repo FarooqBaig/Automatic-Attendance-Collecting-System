@@ -7,6 +7,8 @@ Haarcascade frontal face detection
 DeepFace for face recognition
 Built-in Python packages for barcode scanning and data manipulation
 Functionality
+
+
 **ID Card Scanning:** The system prompts the user to provide their ID card. It scans the barcode on the ID card to extract the roll number.
 
 **Roll Number Validation:** The system verifies the validity of the scanned roll number.
