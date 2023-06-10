@@ -1,4 +1,4 @@
-#Automatic Attendance Collecting System
+# Automatic Attendance Collecting System
 The Automatic Attendance Collecting System is a Python-based project that automates the process of collecting attendance using ID card scanning and facial recognition. The system utilizes the following dependencies:
 
 Python
